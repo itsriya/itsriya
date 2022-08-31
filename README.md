@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsriya
-- 👀 I’m interested in Full Stack Development, Cyber Security and Kali Linux
+- 👀 I’m interested in Blockchain, Wireless Sensor Networks, cyber Security and Kali Linux.
 - 🌱 I’m currently learning  Python3 Programming and Backend Development technologies 
-- 💞️ I’m looking to collaborate on open source projects wherever Python can be used
+- 💞️ I’m looking to collaborate on open source projects wherever Python  and C++ can be used
 - 📫 How to reach me - mail me itsriya26@gmail.com
 
 <!---
